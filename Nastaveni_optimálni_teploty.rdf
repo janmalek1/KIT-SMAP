@@ -1,0 +1,290 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="https://academic.oup.com/biomet/article/37/1-2/149/194820">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0006-3444"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Plackett</foaf:surname>
+                        <foaf:givenName>R. L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2"/>
+        <dc:title>SOME THEOREMS IN LEAST SQUARES</dc:title>
+        <dc:date>1950/06/01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>academic.oup.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/biomet/article/37/1-2/149/194820</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-15 04:11:43</dcterms:dateSubmitted>
+        <bib:pages>149-157</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0006-3444">
+        <prism:volume>37</prism:volume>
+        <dc:title>Biometrika</dc:title>
+        <dc:identifier>DOI 10.1093/biomet/37.1-2.149</dc:identifier>
+        <prism:number>1-2</prism:number>
+        <dcterms:alternative>Biometrika</dcterms:alternative>
+        <dc:identifier>ISSN 0006-3444</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/biomet/article-abstract/37/1-2/149/194820?redirectedFrom=fulltext</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-15 04:11:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-324-58162-1">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cengage Learning</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wooldridge</foaf:surname>
+                        <foaf:givenName>Jeffrey M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Business &amp; Economics / Econometrics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Introductory Econometrics: A Modern Approach</dc:title>
+        <dc:date>2008-03-27</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Introductory Econometrics</z:shortTitle>
+        <z:libraryCatalog>Google Books</z:libraryCatalog>
+        <dc:description>Google-Books-ID: 64vt5TDBNLwC</dc:description>
+        <dc:identifier>ISBN 978-0-324-58162-1</dc:identifier>
+        <z:numPages>889</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_4">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Google Books Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.cz/books?id=64vt5TDBNLwC</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-15 04:13:49</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0003687008001920">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0003-6870"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McCullough</foaf:surname>
+                        <foaf:givenName>Elizabeth A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eckels</foaf:surname>
+                        <foaf:givenName>Steve</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Harms</foaf:surname>
+                        <foaf:givenName>Craig</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_8"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Clothing insulation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Temperature ratings</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Thermal modeling</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Determining temperature ratings for children's cold weather clothing</dc:title>
+        <dc:date>September 1, 2009</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0003687008001920</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-15 19:58:08</dcterms:dateSubmitted>
+        <bib:pages>870-877</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0003-6870">
+        <prism:volume>40</prism:volume>
+        <dc:title>Applied Ergonomics</dc:title>
+        <dc:identifier>DOI 10.1016/j.apergo.2008.12.004</dc:identifier>
+        <prism:number>5</prism:number>
+        <dcterms:alternative>Applied Ergonomics</dcterms:alternative>
+        <dc:identifier>ISSN 0003-6870</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_8">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/abs/pii/S0003687008001920?via%3Dihub</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-15 19:58:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S1877042813044388">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1877-0428"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nasir</foaf:surname>
+                        <foaf:givenName>Rabiatul Adawiyah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ahmad</foaf:surname>
+                        <foaf:givenName>Sabarinah Sh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ahmed</foaf:surname>
+                        <foaf:givenName>Azni Zain</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_10"/>
+        <link:link rdf:resource="#item_11"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>hot and humid</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>outdoor thermal comfort</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Physical activity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>urban park</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Physical Activity and Human Comfort Correlation in an Urban Park in Hot and Humid Conditions</dc:title>
+        <dc:date>December 3, 2013</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1877042813044388</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-15 20:04:57</dcterms:dateSubmitted>
+        <bib:pages>598-609</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1877-0428">
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>AicE-Bs 2013 London (Asia Pacific International Conference on Environment-Behaviour Studies), 4-6 September 2013</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>105</prism:volume>
+        <dc:title>Procedia - Social and Behavioral Sciences</dc:title>
+        <dc:identifier>DOI 10.1016/j.sbspro.2013.11.063</dc:identifier>
+        <dcterms:alternative>Procedia - Social and Behavioral Sciences</dcterms:alternative>
+        <dc:identifier>ISSN 1877-0428</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_10">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S1877042813044388</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-15 20:04:59</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_11">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdf.sciencedirectassets.com/277811/1-s2.0-S1877042813X00370/1-s2.0-S1877042813044388/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIA8w1n5%2BCxkUSmf4%2BmUcbHcjNx9%2BvRsYq9ZBZHvl8OcpAiEA8d4FLrsk4LCDdulCJ%2BmsaMeQ7GzfkDm%2FwSRE7OnsH%2F0qtAMIfBACGgwwNTkwMDM1NDY4NjUiDFyrDk9emAUk6MWNtCqRA%2F%2B5lZyrAfHAoMyGIB%2FyDZXGZKpFNsFj8zt3h5417%2FoM7vF8RW2WpdfNb0yp0H4mUvhRkwxMzFPSkoG69nVKaMfmu7h1UnZ5vMcylgFz8l6awpGwEiQK0dS1IRdefHdEmyMiUwRn65WCEMnToJiGjMU8KWeibzgbCH0vOQuWHqPbG7tyRII%2FI7sAAotlfRPuDqOnKwaF2l1IXkwLTYdE9%2BVLvEFy8hSn%2F27BdVYAZ0o1KYeuwgBvV7R7YOuPGmEmYZcpuUU7LAYOaY0%2BohKqGnaiZnLViuaSYktgKYCsqONOSf3CT0sbjSbAxkacglb5RVMAyq4o9qQWNnEWCUapyW5e3sXowkcILhkgOnwkxh9kJAKRLcXFLORpOTLE7v7QkaZrWudiRDrS1IXAgcsHr7b43upRBmevymK6ft7D6EjStLA2DppRART3tFTaakBf%2BhmG1s3Vl4yF8GA75jw6zjrjIxvwbGYBkkO8mGLAvu0LdTEIN%2Bk6Crvq9ySaCYpieWSc5lDlWFQheRvLOVR2x406MJfI%2FfAFOusB9dkoH7ok7m1I6VBwzVOvnZZkE%2BKUsPPqxAU31GCvA26Y5gI5FApcKwFZu33U%2BPbf5HaQb929I9qyR75aUkeYPZtXUxjj0egAfp3FU2%2FEqVf%2FsFJWSOJ9tklRfoU6rYZfJ%2B7mVOeWOEEWUqGEP7Vmn%2BBcf239uh6OIQBECp8QifQ39IVVtFJfK5CgbW6cIrQc15PJlXYRLdZzx%2FPwUZI9YTN%2B8afO6kVVvoDy%2Fg0r9Imy84IArHA3iO2PTnrurTSbdYa8RVm1rNyR92E%2F2TOHCg2WzyEHRnpbDhm39KTBsgueUQfnyFYEMllQUw%3D%3D&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20200115T200458Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAQ3PHCVTYQBRRD2AJ%2F20200115%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=8bc6c997d3149b1cab846d8bf4c6150133676f36bb1ba43068e14e3b6f77dd41&amp;hash=4a1045f2e319652676e1d18eebc3dbd640e975137f0f709fcef6726d0d1439bb&amp;host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&amp;pii=S1877042813044388&amp;tid=spdf-4646d0be-d80d-42bd-92e7-6382b21843b7&amp;sid=a86ca0147805d44fce0b2b701e9817061670gxrqb&amp;type=client</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-15 20:05:01</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.ashrae.org/technical-resources/bookstore/standard-55-thermal-environmental-conditions-for-human-occupancy">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_15"/>
+        <dc:title>Standard 55 – Thermal Environmental Conditions for Human Occupancy</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ashrae.org/technical-resources/bookstore/standard-55-thermal-environmental-conditions-for-human-occupancy</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-15 20:07:49</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_15">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Standard 55 – Thermal Environmental Conditions for Human Occupancy</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ashrae.org/technical-resources/bookstore/standard-55-thermal-environmental-conditions-for-human-occupancy</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-15 20:07:49</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>
